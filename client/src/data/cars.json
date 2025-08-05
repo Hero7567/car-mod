@@ -1,0 +1,26 @@
+[
+  {
+    "id": "car1",
+    "name": "Mercedes GLB",
+    "image": "/assets/cars/car1.png",
+    "model": "/assets/models/car1.glb"
+  },
+  {
+    "id": "car2",
+    "name": "BMW M4",
+    "image": "/assets/cars/car2.png",
+    "model": "/assets/models/car2.glb"
+  },
+  {
+    "id": "car3",
+    "name": "Audi R8",
+    "image": "/assets/cars/car3.png",
+    "model": "/assets/models/car3.glb"
+  },
+  {
+    "id": "car4",
+    "name": "Lamborghini Huracan",
+    "image": "/assets/cars/car4.png",
+    "model": "/assets/models/car4.glb"
+  }
+]
